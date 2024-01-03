@@ -1,0 +1,9 @@
+.Itemholder{
+    text-align: left;
+   
+}
+.btn{
+    text-transform: uppercase;
+    min-width: 80px;
+    font-weight: 700;   
+}
